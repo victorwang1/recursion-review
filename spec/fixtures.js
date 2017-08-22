@@ -17,7 +17,7 @@ var stringifiableObjects = [
   [8, [[], 3, 4]],
   [[[['foo']]]],
   {},
-  {'a': 'apple'},
+
   {'foo': true, 'bar': false, 'baz': null},
   {'boolean, true': true, 'boolean, false': false, 'null': null },
   // basic nesting
